@@ -96,9 +96,4 @@ Explore the live admin dasboard website: [E-commerce Admin Dashboard Website](ht
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
 
-If you have any questions or suggestions, please feel free to reach out:
-
-- Email: kpirabaharan3@gmail.com
-- LinkedIn: [https://linkedin.com/in/kpirabaharan/](https://linkedin.com/in/kpirabaharan/)
