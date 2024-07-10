@@ -43,7 +43,7 @@ To showcase the multi-store feature, two stores have been established within the
 
 ### Github Page
 
-**E-commerce Admin Dashboard GitHub:** [GitHub Repository](https://github.com/kpirabaharan/E-Commerce-Admin-Dashboard)
+**E-commerce Admin Dashboard GitHub:** [GitHub Repository](https://github.com/mightyeagle329/E-Commerce-Admin-Dashboard)
 
 ### Website
 
